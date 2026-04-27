@@ -1,0 +1,42 @@
+.naver {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: darkslategray;
+    padding: 10px;
+    color: darkturquoise;
+}
+.menu ul {
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    margin: 0;
+}
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+    padding-right: 100px;
+}
+.hero img {
+    width:400px;
+    height: auto 0px;
+}
+.test {
+    color: darkblue;
+}
+.test h1 {
+    font-size: 32px;
+}
+.test p {
+    font-size: 16px;
+}
+btn {
+    padding: 10px 20px;
+    background-color: black;
+    color: beige;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s;
+}
